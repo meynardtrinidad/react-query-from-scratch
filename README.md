@@ -45,3 +45,5 @@
 - [ ] **Basic DevTools**
     - Provide a developer tool (e.g., a separate component or basic browser console logging) to inspect the query cache, view query states, and potentially trigger actions like invalidation or refetching for easier debugging.
 
+- [React Query From Scratch](https://github.com/philipfabianek/react-query-from-scratch/tree/main)
+- [React Query From Scratch](https://github.com/tigerabrodi/react-query-from-scratch/tree/main)

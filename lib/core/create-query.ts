@@ -1,0 +1,5 @@
+const createQuery = () => {
+
+}
+
+export { createQuery }
